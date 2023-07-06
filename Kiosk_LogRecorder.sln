@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiosk_LogRecorder", "Kiosk_LogRecorder\Kiosk_LogRecorder.csproj", "{11037F21-DF21-44FE-9870-C7F81974D5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11037F21-DF21-44FE-9870-C7F81974D5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11037F21-DF21-44FE-9870-C7F81974D5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11037F21-DF21-44FE-9870-C7F81974D5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11037F21-DF21-44FE-9870-C7F81974D5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865DB646-BCB4-42C7-948F-3FA7184798E2}
+	EndGlobalSection
+EndGlobal
